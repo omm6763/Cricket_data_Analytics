@@ -136,13 +136,13 @@ The project aims to select the \*\*Best T20 World Cup 2022 Playing XI\*\* based 
 
 
 
-#### ***## Power BI Dashboard***
+## Power BI Dashboard
 
+- **PDF Version of Dashboard:** [View PDF Report](./world_cricket_best_t20_11.pdf)
 
+- **Power BI Report File:** [Download PBIX File](./world_Cricket%20Best_t20_11.pbix)  
+  *(Open this file in Power BI Desktop for interactive analysis)*
 
-###### \- **Dashboard (PDF Version):** \[Click to view](./world\_cricket\_best\_t20\_11.pdf)
-
-###### \- **Power BI File:** `world\_Cricket Best\_t20\_11.pbix` (open in Power BI Desktop)
 
 
 
