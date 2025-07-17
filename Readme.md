@@ -170,7 +170,7 @@ All data was scraped from \[ESPN Cricinfo](https://www.espncricinfo.com/) using 
 
 ###### **GitHub:**  \[https://github.com/Aditya23303]
 
-&nbsp;        (https://github.com/Aditya23303)
+&nbsp;        
 
 
 
