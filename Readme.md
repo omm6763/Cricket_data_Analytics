@@ -56,40 +56,12 @@ The project aims to select the Best T20 World Cup 2022 Playing XI based on a dat
 
 ---
 
-#### **Technologies Used**
-
-**Languages & Libraries:**
-- Python (Pandas, NumPy, Matplotlib)
-
-**Tools:**
-- Bright Data Web Scraper (JavaScript)
-- Power BI Desktop
-- Git & GitHub
-
----
-
 #### **Power BI Dashboard**
 
 - **PDF Version of Dashboard:** [View PDF Report](./world_cricket_best_t20_11.pdf)  
 - **Power BI Report File:** [Download PBIX File](./world_Cricket%20Best_t20_11.pbix)  
-  *(Open this file in Power BI Desktop for interactive analysis)*  
-
----
-
-#### **Data Source**
-
-All data was scraped from [ESPN Cricinfo](https://www.espncricinfo.com/) using Bright Data’s Web Scraper.  
-JSON files were transformed into structured CSVs and used for further analysis.
-
----
-
-#### **Author**
-
-**Aditya Singh**  
-**GitHub:** [View Profile](https://github.com/Aditya23303)
 
 
----
 
 
 
