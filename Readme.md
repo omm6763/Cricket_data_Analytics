@@ -8,25 +8,6 @@ This project provides an end-to-end data analytics pipeline focused on the T20 W
 
 The goal is to derive actionable insights from cricket match data, including batting, bowling, match summaries, and player performance.
 
----
-
-#### **Folder Structure**
-
-**Cricket_Analytics_Project/**
-
-├── cricket-project_data_preprocessing.ipynb   — Data cleaning and analysis using Python  
-├── world_Cricket Best_t20_11.pbix             — Power BI dashboard  
-├── world_cricket_best_t20_11.pdf              — Exported dashboard in PDF format  
-├── cricket_project_csv_files/                 — Processed CSV datasets  
-├── cricket_project_json_files/                — Raw scraped JSON files  
-├── web_scrapping_codes/                       — Bright Data scraping scripts (JavaScript)  
-│   ├── t20_wc_batting_summary.js  
-│   ├── t20_wc_bowling_summary.js  
-│   ├── t20_wc_match_results.js  
-│   └── t20_wc_player_info.js  
-├── README.md                                  — Project documentation  
-
----
 
 #### **Key Performance Indicators (KPIs) and Selection Criteria**
 
@@ -50,16 +31,9 @@ The project aims to select the Best T20 World Cup 2022 Playing XI based on a dat
 - Specialist Bowlers picked for their bowling average, economy, and match impact.
 - The final XI is balanced to score 180+ runs consistently and defend 150+ totals, based on individual and team metrics.
 
-**Visual Representation:**
-- The dashboard showcases selected players, their roles, and key performance metrics.
-- Player images and profile-based visuals enhance the understanding of selection logic.
 
----
 
-#### **Power BI Dashboard**
 
-- **PDF Version of Dashboard:** [View PDF Report](./world_cricket_best_t20_11.pdf)  
-- **Power BI Report File:** [Download PBIX File](./world_Cricket%20Best_t20_11.pbix)  
 
 
 
